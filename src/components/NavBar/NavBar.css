@@ -1,0 +1,27 @@
+
+.NavBar{
+    padding: 1rem 0px;
+    background-color: grey;
+}
+
+.NavBar-ul{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-flow: row wrap;
+    list-style: none;
+}
+.NavBar-enlace{
+    font-size: 20px;
+}
+
+.NavBar a{
+    text-decoration: none;
+}
+
+.NavBar-titulo{
+    font-size: 35px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+    text-align: center;
+}
